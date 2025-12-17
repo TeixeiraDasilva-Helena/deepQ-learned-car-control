@@ -18,8 +18,8 @@ Implemented as a **Jupyter notebook** for clarity, visualization, and experiment
 The notebook walks through:
 - Environment setup
 - Neural network architecture
-- Training loop
-- Reward shaping
-- Evaluation and visualization
+- Training
+- Rewards Visualization
+- Testing
 
 ---
